@@ -49,6 +49,15 @@ Run these queries in Prometheus to see host metrics:
 
 <img width="604" height="287" alt="image" src="https://github.com/user-attachments/assets/422e2b29-d5b3-44f9-8d81-cac664eb3d94" />
 
+<img width="957" height="336" alt="Image" src="https://github.com/user-attachments/assets/dd62644c-8873-49b9-a48d-009ceb6fa0ff" />
+<img width="1110" height="454" alt="Image" src="https://github.com/user-attachments/assets/c5d801b6-6774-4bcc-8b29-a164c3c1e7f1" />
+<img width="1110" height="410" alt="Image" src="https://github.com/user-attachments/assets/bac64fdb-7a34-4ea9-9dfc-7b4ead847e39" />
+<img width="1122" height="354" alt="Image" src="https://github.com/user-attachments/assets/0ddbe1c2-8426-430b-81fb-b1949c39b1be" />
+<img width="1115" height="381" alt="Image" src="https://github.com/user-attachments/assets/0f75f6bb-e1f8-46d5-85c0-153a7f831c50" />
+<img width="1120" height="451" alt="Image" src="https://github.com/user-attachments/assets/12fe326a-bdf3-42c5-9953-b7affcff79ba" />
+<img width="1117" height="393" alt="Image" src="https://github.com/user-attachments/assets/a68e7b48-2c57-4941-832b-775c21e63cd6" />
+
+
 # Task 2: Add cAdvisor for Container Metrics
 
 cAdvisor (Container Advisor) monitors resource usage and performance of running Docker containers.
@@ -76,6 +85,15 @@ Open http://localhost:8080 to see the cAdvisor web UI. Click on Docker Container
 Run these queries in Prometheus:
 
 <img width="708" height="267" alt="image" src="https://github.com/user-attachments/assets/197f0ed3-f60c-45f5-8dc4-794e81b14118" />
+
+<img width="934" height="918" alt="Image" src="https://github.com/user-attachments/assets/3fd12129-7022-452a-915b-0215063c9ea9" />
+<img width="904" height="908" alt="Image" src="https://github.com/user-attachments/assets/fcf66104-384d-4f71-b9c6-4845832d73b2" />
+<img width="746" height="709" alt="Image" src="https://github.com/user-attachments/assets/aa5ef2f6-005b-4a8f-89bd-20ec1bb1b699" />
+<img width="926" height="338" alt="Image" src="https://github.com/user-attachments/assets/8b001128-4482-40f7-942d-b87dddb37522" />
+<img width="942" height="420" alt="Image" src="https://github.com/user-attachments/assets/1a77ac81-5bda-4544-a7f7-d85327e5b895" />
+<img width="962" height="301" alt="Image" src="https://github.com/user-attachments/assets/dc6fbbc5-37c6-4cb1-a19d-abb24c426ef6" />
+<img width="940" height="329" alt="Image" src="https://github.com/user-attachments/assets/c8cbf493-20b8-4173-899a-c659841f273b" />
+<img width="924" height="332" alt="Image" src="https://github.com/user-attachments/assets/23b00a8c-f4fd-4afb-8eee-6953ed580c0a" />
 
 
 
